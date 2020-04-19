@@ -1,3 +1,12 @@
+# BCS Online Workshop Apr 2020
+
+This is the fork of the workshop repoisotry and contains the overall assignment as performed by me (Debaditya Bhattacharya). The analysis of the final project can be found [here](Psychophysics\Assignment\VisualSearchExperimentAnalysis190254.pdf)
+
+ LEGACY!
+    |
+    |
+    |
+    V
 # Brain and Cognitive Society Online Workshop Apr '20
 
 This repository contains all the lectures and workshop materials for the workshop conducted during March-April 2020. The goal of this workshop is to teach the basics of different technical skills needed for studying brain science to reverse engineer human brain/intelligence to create more general and intelligent AI's for the future world. It covers a range of topics, including:
